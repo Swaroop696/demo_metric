@@ -2,7 +2,7 @@
   "user-engagement": [
     {
       "name": "Users",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/a47ad859-fb69-4517-87ae-45ec38ee062f/daily-weekly-active-users-dau-wau?orgId=3"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/a47ad859-fb69-4517-87ae-45ec38ee062e/users?orgId=1"
     },
     {
       "name": "Usage",
@@ -16,7 +16,7 @@
   "content-performance": [
     {
       "name": "Watch Insights",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/da6734dc-b3b5-4300-baee-f231305b3617/watch-insights"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/da6734dc-b3b5-4300-baee-f231305b3618/watch-insights?orgId=1"
     }
   ],
   "user-acquisition": [
@@ -32,7 +32,7 @@
     },
     {
       "name": "Errors",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/b380ca89-a9dc-4b9e-aa11-329790553af7/errors"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/b380ca89-a9dc-4b9e-aa11-329790553af8/errors?orgId=1"
     }
   ],
   "demographics": [
